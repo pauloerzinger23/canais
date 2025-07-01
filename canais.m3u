@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
 http://supersonictv.live:8080/812493/376688/84935
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
 http://supersonictv.live:8080/812493/376688/84936
@@ -125,7 +125,7 @@ http://supersonictv.live:8080/812493/376688/84997
 http://supersonictv.live:8080/812493/376688/84998
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO EPTV CAMPINAS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO EPTV CAMPINAS SD#
 http://supersonictv.live:8080/812493/376688/84999
-#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO EPTV RIBEIRÃƒÂƒO PRETO SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO EPTV RIBEIRÃƒÂƒO PRETO SD#
 http://supersonictv.live:8080/812493/376688/85000
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo EPTV Sul de Minas FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo EPTV Sul de Minas FHD
 http://supersonictv.live:8080/812493/376688/85001
@@ -145,7 +145,7 @@ http://supersonictv.live:8080/812493/376688/85007
 http://supersonictv.live:8080/812493/376688/85008
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO RBS TV POA FHD" tvg-logo="" group-title="BRAZIL",[BR] GLOBO RBS TV POA FHD
 http://supersonictv.live:8080/812493/376688/85009
-#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO REDE AMAZÃƒÂ”NICA MANAUS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO REDE AMAZÃƒÂ”NICA MANAUS SD#
 http://supersonictv.live:8080/812493/376688/85010
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO RIO HD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO RIO HD#
 http://supersonictv.live:8080/812493/376688/85011
@@ -153,13 +153,13 @@ http://supersonictv.live:8080/812493/376688/85011
 http://supersonictv.live:8080/812493/376688/85012
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Curitiba FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Curitiba FHD
 http://supersonictv.live:8080/812493/376688/85013
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Foz do Iguaçu FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Foz do Iguaçu FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Foz do IguaÃ§u FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Foz do IguaÃ§u FHD
 http://supersonictv.live:8080/812493/376688/85014
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO SP FHD" tvg-logo="" group-title="BRAZIL",[BR] GLOBO SP FHD
 http://supersonictv.live:8080/812493/376688/85015
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Anhanguera  SD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Anhanguera  SD
 http://supersonictv.live:8080/812493/376688/85016
-#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV ANHANGUERA GOIÃƒÂ‚NIA SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV ANHANGUERA GOIÃƒÂ‚NIA SD#
 http://supersonictv.live:8080/812493/376688/85017
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Bahia FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Bahia FHD
 http://supersonictv.live:8080/812493/376688/85018
@@ -179,7 +179,7 @@ http://supersonictv.live:8080/812493/376688/85024
 http://supersonictv.live:8080/812493/376688/85025
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV TRIBUNA SANTOS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV TRIBUNA SANTOS SD#
 http://supersonictv.live:8080/812493/376688/85026
-#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV VANGUARDA SÃƒÂƒO JOSÃƒÂ‰ DOS CAMPOS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV VANGUARDA SÃƒÂƒO JOSÃƒÂ‰ DOS CAMPOS SD#
 http://supersonictv.live:8080/812493/376688/85027
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Verdes Mares FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Verdes Mares FHD
 http://supersonictv.live:8080/812493/376688/85028
@@ -385,7 +385,7 @@ http://supersonictv.live:8080/812493/376688/85127
 http://supersonictv.live:8080/812493/376688/85128
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Conmebol 4 FHD" tvg-logo="" group-title="BRAZIL",[BR] Conmebol 4 FHD
 http://supersonictv.live:8080/812493/376688/85129
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Boa Vontade FHD ²" tvg-logo="" group-title="BRAZIL",[BR] Boa Vontade FHD ²
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Boa Vontade FHD Â²" tvg-logo="" group-title="BRAZIL",[BR] Boa Vontade FHD Â²
 http://supersonictv.live:8080/812493/376688/85130
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Boa Vontade TV FHD" tvg-logo="" group-title="BRAZIL",[BR] Boa Vontade TV FHD
 http://supersonictv.live:8080/812493/376688/85131
@@ -411,7 +411,7 @@ http://supersonictv.live:8080/812493/376688/85150
 http://supersonictv.live:8080/812493/376688/85152
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Canal Rural FHD" tvg-logo="" group-title="BRAZIL",[BR] Canal Rural FHD
 http://supersonictv.live:8080/812493/376688/85153
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Canale 7 Itália" tvg-logo="" group-title="BRAZIL",[BR] Canale 7 Itália
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Canale 7 ItÃ¡lia" tvg-logo="" group-title="BRAZIL",[BR] Canale 7 ItÃ¡lia
 http://supersonictv.live:8080/812493/376688/85154
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Carioca 2 HD" tvg-logo="" group-title="BRAZIL",[BR] Carioca 2 HD
 http://supersonictv.live:8080/812493/376688/85157
@@ -419,7 +419,7 @@ http://supersonictv.live:8080/812493/376688/85157
 http://supersonictv.live:8080/812493/376688/85158
 #EXTINF:-1 tvg-id="" tvg-name="[BR] CBN Rio" tvg-logo="" group-title="BRAZIL",[BR] CBN Rio
 http://supersonictv.live:8080/812493/376688/85159
-#EXTINF:-1 tvg-id="" tvg-name="[BR] CBN São Paulo" tvg-logo="" group-title="BRAZIL",[BR] CBN São Paulo
+#EXTINF:-1 tvg-id="" tvg-name="[BR] CBN SÃ£o Paulo" tvg-logo="" group-title="BRAZIL",[BR] CBN SÃ£o Paulo
 http://supersonictv.live:8080/812493/376688/85160
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Central|Top TV HD" tvg-logo="" group-title="BRAZIL",[BR] Central|Top TV HD
 http://supersonictv.live:8080/812493/376688/85161
@@ -467,7 +467,7 @@ http://supersonictv.live:8080/812493/376688/85181
 http://supersonictv.live:8080/812493/376688/85182
 #EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO 4K" tvg-logo="" group-title="BRAZIL",[BR] GLOBO 4K
 http://supersonictv.live:8080/812493/376688/85183
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo EPTV Ribeirão Preto" tvg-logo="" group-title="BRAZIL",[BR] Globo EPTV Ribeirão Preto
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo EPTV RibeirÃ£o Preto" tvg-logo="" group-title="BRAZIL",[BR] Globo EPTV RibeirÃ£o Preto
 http://supersonictv.live:8080/812493/376688/85184
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo Inter Cabugi HD" tvg-logo="" group-title="BRAZIL",[BR] Globo Inter Cabugi HD
 http://supersonictv.live:8080/812493/376688/85185
@@ -507,7 +507,7 @@ http://supersonictv.live:8080/812493/376688/85201
 http://supersonictv.live:8080/812493/376688/85202
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Clube FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Clube FHD
 http://supersonictv.live:8080/812493/376688/85203
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Integração JF FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Integração JF FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV IntegraÃ§Ã£o JF FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV IntegraÃ§Ã£o JF FHD
 http://supersonictv.live:8080/812493/376688/85204
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Recife FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Recife FHD
 http://supersonictv.live:8080/812493/376688/85205
@@ -587,11 +587,11 @@ http://supersonictv.live:8080/812493/376688/85243
 http://supersonictv.live:8080/812493/376688/85244
 #EXTINF:-1 tvg-id="" tvg-name="[BR] RECORD 4K" tvg-logo="" group-title="BRAZIL",[BR] RECORD 4K
 http://supersonictv.live:8080/812493/376688/85245
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Record Belém HD" tvg-logo="" group-title="BRAZIL",[BR] Record Belém HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Record BelÃ©m HD" tvg-logo="" group-title="BRAZIL",[BR] Record BelÃ©m HD
 http://supersonictv.live:8080/812493/376688/85246
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Record Brasília HD" tvg-logo="" group-title="BRAZIL",[BR] Record Brasília HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Record BrasÃ­lia HD" tvg-logo="" group-title="BRAZIL",[BR] Record BrasÃ­lia HD
 http://supersonictv.live:8080/812493/376688/85247
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Record Goiás HD" tvg-logo="" group-title="BRAZIL",[BR] Record Goiás HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Record GoiÃ¡s HD" tvg-logo="" group-title="BRAZIL",[BR] Record GoiÃ¡s HD
 http://supersonictv.live:8080/812493/376688/85248
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Record Itapoan HD" tvg-logo="" group-title="BRAZIL",[BR] Record Itapoan HD
 http://supersonictv.live:8080/812493/376688/85249
@@ -617,7 +617,7 @@ http://supersonictv.live:8080/812493/376688/85258
 http://supersonictv.live:8080/812493/376688/85259
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Rede Minas FHD" tvg-logo="" group-title="BRAZIL",[BR] Rede Minas FHD
 http://supersonictv.live:8080/812493/376688/85260
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Rede Século 21" tvg-logo="" group-title="BRAZIL",[BR] Rede Século 21
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Rede SÃ©culo 21" tvg-logo="" group-title="BRAZIL",[BR] Rede SÃ©culo 21
 http://supersonictv.live:8080/812493/376688/85261
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Rede TV 4K" tvg-logo="" group-title="BRAZIL",[BR] Rede TV 4K
 http://supersonictv.live:8080/812493/376688/85262
@@ -629,7 +629,7 @@ http://supersonictv.live:8080/812493/376688/85264
 http://supersonictv.live:8080/812493/376688/85265
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Rock TV" tvg-logo="" group-title="BRAZIL",[BR] Rock TV
 http://supersonictv.live:8080/812493/376688/85266
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Santuário de Fátima FHD" tvg-logo="" group-title="BRAZIL",[BR] Santuário de Fátima FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] SantuÃ¡rio de FÃ¡tima FHD" tvg-logo="" group-title="BRAZIL",[BR] SantuÃ¡rio de FÃ¡tima FHD
 http://supersonictv.live:8080/812493/376688/85267
 #EXTINF:-1 tvg-id="" tvg-name="[BR] SBT 4K" tvg-logo="" group-title="BRAZIL",[BR] SBT 4K
 http://supersonictv.live:8080/812493/376688/85268
@@ -639,7 +639,7 @@ http://supersonictv.live:8080/812493/376688/85269
 http://supersonictv.live:8080/812493/376688/85270
 #EXTINF:-1 tvg-id="" tvg-name="[BR] SBT GO HD" tvg-logo="" group-title="BRAZIL",[BR] SBT GO HD
 http://supersonictv.live:8080/812493/376688/85271
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SBT HD²" tvg-logo="" group-title="BRAZIL",[BR] SBT HD²
+#EXTINF:-1 tvg-id="" tvg-name="[BR] SBT HDÂ²" tvg-logo="" group-title="BRAZIL",[BR] SBT HDÂ²
 http://supersonictv.live:8080/812493/376688/85272
 #EXTINF:-1 tvg-id="" tvg-name="[BR] SBT Int SP FHD" tvg-logo="" group-title="BRAZIL",[BR] SBT Int SP FHD
 http://supersonictv.live:8080/812493/376688/85273
@@ -655,7 +655,7 @@ http://supersonictv.live:8080/812493/376688/85277
 http://supersonictv.live:8080/812493/376688/85278
 #EXTINF:-1 tvg-id="" tvg-name="[BR] SBT RS HD" tvg-logo="" group-title="BRAZIL",[BR] SBT RS HD
 http://supersonictv.live:8080/812493/376688/85279
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SBT SD²" tvg-logo="" group-title="BRAZIL",[BR] SBT SD²
+#EXTINF:-1 tvg-id="" tvg-name="[BR] SBT SDÂ²" tvg-logo="" group-title="BRAZIL",[BR] SBT SDÂ²
 http://supersonictv.live:8080/812493/376688/85280
 #EXTINF:-1 tvg-id="" tvg-name="[BR] SescTV FHD" tvg-logo="" group-title="BRAZIL",[BR] SescTV FHD
 http://supersonictv.live:8080/812493/376688/85281
@@ -711,7 +711,7 @@ http://supersonictv.live:8080/812493/376688/85305
 http://supersonictv.live:8080/812493/376688/85306
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TNT DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TNT DUAL HD
 http://supersonictv.live:8080/812493/376688/85307
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SÉRIES 4K" tvg-logo="" group-title="BRAZIL",[BR] TNT SÉRIES 4K
+#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SÃ‰RIES 4K" tvg-logo="" group-title="BRAZIL",[BR] TNT SÃ‰RIES 4K
 http://supersonictv.live:8080/812493/376688/85308
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TNT Series DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TNT Series DUAL HD
 http://supersonictv.live:8080/812493/376688/85309
@@ -759,7 +759,7 @@ http://supersonictv.live:8080/812493/376688/85329
 http://supersonictv.live:8080/812493/376688/85330
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TV Camara FHD" tvg-logo="" group-title="BRAZIL",[BR] TV Camara FHD
 http://supersonictv.live:8080/812493/376688/85331
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TV Câmara FHD" tvg-logo="" group-title="BRAZIL",[BR] TV Câmara FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] TV CÃ¢mara FHD" tvg-logo="" group-title="BRAZIL",[BR] TV CÃ¢mara FHD
 http://supersonictv.live:8080/812493/376688/85332
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TV Cultura FHD" tvg-logo="" group-title="BRAZIL",[BR] TV Cultura FHD
 http://supersonictv.live:8080/812493/376688/85333
@@ -779,9 +779,9 @@ http://supersonictv.live:8080/812493/376688/85339
 http://supersonictv.live:8080/812493/376688/85340
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TV Imaculada HD" tvg-logo="" group-title="BRAZIL",[BR] TV Imaculada HD
 http://supersonictv.live:8080/812493/376688/85341
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TV Justiça" tvg-logo="" group-title="BRAZIL",[BR] TV Justiça
+#EXTINF:-1 tvg-id="" tvg-name="[BR] TV JustiÃ§a" tvg-logo="" group-title="BRAZIL",[BR] TV JustiÃ§a
 http://supersonictv.live:8080/812493/376688/85342
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TV Justiça FHD" tvg-logo="" group-title="BRAZIL",[BR] TV Justiça FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] TV JustiÃ§a FHD" tvg-logo="" group-title="BRAZIL",[BR] TV JustiÃ§a FHD
 http://supersonictv.live:8080/812493/376688/85343
 #EXTINF:-1 tvg-id="" tvg-name="[BR] TV Novo Tempo FHD" tvg-logo="" group-title="BRAZIL",[BR] TV Novo Tempo FHD
 http://supersonictv.live:8080/812493/376688/85344
@@ -849,5 +849,5 @@ http://supersonictv.live:8080/812493/376688/85374
 http://supersonictv.live:8080/812493/376688/85375
 #EXTINF:-1 tvg-id="" tvg-name="[BR] VRT Channel HD" tvg-logo="" group-title="BRAZIL",[BR] VRT Channel HD
 http://supersonictv.live:8080/812493/376688/85376
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV 4 HD Olimpíadas" tvg-logo="" group-title="BRAZIL",[BR] SporTV 4 HD Olimpíadas
+#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV 4 HD OlimpÃ­adas" tvg-logo="" group-title="BRAZIL",[BR] SporTV 4 HD OlimpÃ­adas
 http://supersonictv.live:8080/812493/376688/85387
